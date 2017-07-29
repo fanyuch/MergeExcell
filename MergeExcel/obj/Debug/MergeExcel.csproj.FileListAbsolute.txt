@@ -1,0 +1,10 @@
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\bin\Debug\MergeExcel.exe
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\bin\Debug\MergeExcel.pdb
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.ExcelMerge.resources
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.Properties.Resources.resources
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.csproj.GenerateResource.Cache
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.exe
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.pdb
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\obj\Debug\MergeExcel.exe.licenses
+E:\我的文档\Visual Studio 2008\Projects\MergeExcel\MergeExcel\bin\Debug\MergeExcel.exe.config
